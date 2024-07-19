@@ -1,5 +1,4 @@
-1. Create .env file by copying .env.example:
-
+1. Create .env file:
 ```bash
 WSS_URL=wss://eth-mainnet.g.alchemy.com/v2/{api}
 ```
